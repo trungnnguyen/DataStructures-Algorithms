@@ -1,2 +1,2 @@
 # Data-Structures
-Data Structures used for Network Analysis
+Data structures and algorithms used for Network Analysis
